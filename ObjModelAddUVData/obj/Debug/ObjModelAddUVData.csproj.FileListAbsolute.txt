@@ -1,0 +1,10 @@
+G:\反编译工程\ObjModelAddUVData\ObjModelAddUVData\bin\Debug\ObjModelAddUVData.exe.config
+G:\反编译工程\ObjModelAddUVData\ObjModelAddUVData\bin\Debug\ObjModelAddUVData.exe
+G:\反编译工程\ObjModelAddUVData\ObjModelAddUVData\bin\Debug\ObjModelAddUVData.pdb
+G:\反编译工程\ObjModelAddUVData\ObjModelAddUVData\obj\Debug\ObjModelAddUVData.csproj.AssemblyReference.cache
+G:\反编译工程\ObjModelAddUVData\ObjModelAddUVData\obj\Debug\ObjModelAddUVData.ObjFixUVForm.resources
+G:\反编译工程\ObjModelAddUVData\ObjModelAddUVData\obj\Debug\ObjModelAddUVData.Properties.Resources.resources
+G:\反编译工程\ObjModelAddUVData\ObjModelAddUVData\obj\Debug\ObjModelAddUVData.csproj.GenerateResource.cache
+G:\反编译工程\ObjModelAddUVData\ObjModelAddUVData\obj\Debug\ObjModelAddUVData.csproj.CoreCompileInputs.cache
+G:\反编译工程\ObjModelAddUVData\ObjModelAddUVData\obj\Debug\ObjModelAddUVData.exe
+G:\反编译工程\ObjModelAddUVData\ObjModelAddUVData\obj\Debug\ObjModelAddUVData.pdb
